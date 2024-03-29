@@ -39,7 +39,7 @@ To evaluate the performance of these sorting algorithms, we conducted a series o
 
 <p>Performance by Array Size(N) from 10000000 to 90000000</p>     
 <p>Performance by Max Value(M) from 10000000 to 90000000</p>
-<img src = "https://github.com/teodorma/SortingAlgorithms/assets/108132918/5717272e-4052-4142-807e-077d2d046796" width = 100%)>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/482228cd-bd46-460e-809a-58c57d1d4f71" width = 100%>
 
 
 ### Performance by Data Distribution
