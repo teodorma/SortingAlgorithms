@@ -26,37 +26,41 @@ To evaluate the performance of these sorting algorithms, we conducted a series o
 <p>Performance by Array Size(N) from 10000 to 90000</p>
 
 <p>Performance by Max Value(M) from 10000 to 90000</p>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/babc836b-9646-41ab-bacc-1f24c182fdcb" width = 100%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/999c098b-3799-486a-862d-c71ee6dbea55" width = 100%>
 <p>Performance by Array Size(N) from 100000 to 900000</p>      
 
 <p>Performance by Max Value(M) from 100000 to 900000</p>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/c915edf6-0202-40e4-80a3-8906772d5489" width = 100%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/aad8aab7-6c2e-4aff-abbb-3b277ffa2e31" width = 100%>
 <p>Performance by Array Size(N) from 1000000 to 9000000</p>        
 
 <p>Performance by Max Value(M) from 1000000 to 9000000</p>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/228c8bb4-79f9-4f22-9808-7bea2e382118" width = 100%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/5d362594-7928-4c90-a8bd-51e0d053c3b1" width = 100%>
 
+<p>Performance by Array Size(N) from 10000000 to 90000000</p>  
 
-<p>Performance by Array Size(N) from 10000000 to 90000000</p>     
 <p>Performance by Max Value(M) from 10000000 to 90000000</p>
 <img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/482228cd-bd46-460e-809a-58c57d1d4f71" width = 100%>
 
 
+
+
+
+
 ### Performance by Data Distribution
 <p>Radix Sort base 10 and base 2^16</p>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/fac6107d-c3d8-4153-90ac-d78b0bf0e4d5" width = 49%>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/0cacbe6a-e51f-426a-b747-f7828fe67084" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/ff1486b7-61dd-4ea0-b03b-2e632c60f1d4" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/6844d22b-c632-4f82-bc80-a8117474e8d3" width = 49%>
 <p>Merge Sort and Shell Sort</p>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/6cf7aed9-0dd6-4e9e-9bd4-0ba7482750eb" width = 49%>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/07d42149-b42c-41ed-b5e1-592cf24e1f6c" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/f9e0d40f-510e-444a-9939-1d937e21e537" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/1d84dd39-2868-4abc-887c-772fd9c6d5d2" width = 49%>
 <p>Cube Sort and Bucket Sort</p>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/addc6176-b12c-4638-b14a-6c09623462ca" width = 49%>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/1c31a178-522c-47c1-af8e-7ff81d141c3f" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/a691f9c3-acca-4a89-a91c-c1c6120803a1" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/9cab0bc9-8d1a-42f6-b841-66c1487e01d3" width = 49%>
 <p>Heap Sort and Native Sort</p>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/a235e2dd-af43-4076-a8d2-f7a21f84a889" width = 49%>
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/aafbecc0-2c39-4516-91e2-7914e8301362" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/5f2390df-70a7-4984-9dbe-64e4c1e7b8a6" width = 49%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/e7f76b68-2daa-4e97-8189-f9408e94ce86" width = 49%>
 
-<img src = "https://github.com/teodorma/Sorting_Algorithms/assets/108132918/40c9708f-6276-4140-a89d-85d723e68834" width = 98%>
+<img src = "https://github.com/teodorma/SortingAlgorithms/assets/127875348/c4f52a81-a468-4d5a-8388-180ddf6f6d77" width = 98%>
 
 
 ## Key Findings
