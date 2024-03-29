@@ -1,0 +1,90 @@
+Test: N=10000, M=10000000
+radix_sort_base10: 0.3063175678253174 seconds status OK
+radix_sort_base2_16: 0.08500123023986816 seconds status OK
+merge_sort: 0.04349994659423828 seconds status OK
+shell_sort: 0.021241188049316406 seconds status OK
+cube_sort: 0.011676788330078125 seconds status OK
+bucket_sort: 0.019860029220581055 seconds status OK
+heap_sort: 0.0667121410369873 seconds status OK
+native_sort: 0.0017290115356445312 seconds status OK
+
+Test: N=10000, M=20000000
+radix_sort_base10: 0.31464314460754395 seconds status OK
+radix_sort_base2_16: 0.11361479759216309 seconds status OK
+merge_sort: 0.04035758972167969 seconds status OK
+shell_sort: 0.02540135383605957 seconds status OK
+cube_sort: 0.014484167098999023 seconds status OK
+bucket_sort: 0.014187097549438477 seconds status OK
+heap_sort: 0.08270144462585449 seconds status OK
+native_sort: 0.0020873546600341797 seconds status OK
+
+Test: N=10000, M=30000000
+radix_sort_base10: 0.3080580234527588 seconds status OK
+radix_sort_base2_16: 0.07654404640197754 seconds status OK
+merge_sort: 0.029018878936767578 seconds status OK
+shell_sort: 0.021405458450317383 seconds status OK
+cube_sort: 0.01133418083190918 seconds status OK
+bucket_sort: 0.010573863983154297 seconds status OK
+heap_sort: 0.052565574645996094 seconds status OK
+native_sort: 0.0017540454864501953 seconds status OK
+
+Test: N=10000, M=40000000
+radix_sort_base10: 0.25702643394470215 seconds status OK
+radix_sort_base2_16: 0.08783435821533203 seconds status OK
+merge_sort: 0.03826189041137695 seconds status OK
+shell_sort: 0.021808624267578125 seconds status OK
+cube_sort: 0.012030601501464844 seconds status OK
+bucket_sort: 0.011945962905883789 seconds status OK
+heap_sort: 0.06148862838745117 seconds status OK
+native_sort: 0.002132415771484375 seconds status OK
+
+Test: N=10000, M=50000000
+radix_sort_base10: 0.2594001293182373 seconds status OK
+radix_sort_base2_16: 0.06342315673828125 seconds status OK
+merge_sort: 0.024076223373413086 seconds status OK
+shell_sort: 0.013641834259033203 seconds status OK
+cube_sort: 0.007917165756225586 seconds status OK
+bucket_sort: 0.008991241455078125 seconds status OK
+heap_sort: 0.04221034049987793 seconds status OK
+native_sort: 0.0010843276977539062 seconds status OK
+
+Test: N=10000, M=60000000
+radix_sort_base10: 0.23379087448120117 seconds status OK
+radix_sort_base2_16: 0.07556557655334473 seconds status OK
+merge_sort: 0.03256630897521973 seconds status OK
+shell_sort: 0.015251636505126953 seconds status OK
+cube_sort: 0.008207321166992188 seconds status OK
+bucket_sort: 0.008677244186401367 seconds status OK
+heap_sort: 0.043538570404052734 seconds status OK
+native_sort: 0.0012733936309814453 seconds status OK
+
+Test: N=10000, M=70000000
+radix_sort_base10: 0.2730998992919922 seconds status OK
+radix_sort_base2_16: 0.07396364212036133 seconds status OK
+merge_sort: 0.032093048095703125 seconds status OK
+shell_sort: 0.015865325927734375 seconds status OK
+cube_sort: 0.007132530212402344 seconds status OK
+bucket_sort: 0.006489753723144531 seconds status OK
+heap_sort: 0.04700899124145508 seconds status OK
+native_sort: 0.002501964569091797 seconds status OK
+
+Test: N=10000, M=80000000
+radix_sort_base10: 0.34510064125061035 seconds status OK
+radix_sort_base2_16: 0.09503746032714844 seconds status OK
+merge_sort: 0.041914939880371094 seconds status OK
+shell_sort: 0.04135394096374512 seconds status OK
+cube_sort: 0.018015384674072266 seconds status OK
+bucket_sort: 0.011346101760864258 seconds status OK
+heap_sort: 0.0648050308227539 seconds status OK
+native_sort: 0.0016274452209472656 seconds status OK
+
+Test: N=10000, M=90000000
+radix_sort_base10: 0.2513754367828369 seconds status OK
+radix_sort_base2_16: 0.07784223556518555 seconds status OK
+merge_sort: 0.029721498489379883 seconds status OK
+shell_sort: 0.021540164947509766 seconds status OK
+cube_sort: 0.012063026428222656 seconds status OK
+bucket_sort: 0.056143999099731445 seconds status OK
+heap_sort: 0.038855552673339844 seconds status OK
+native_sort: 0.001287698745727539 seconds status OK
+

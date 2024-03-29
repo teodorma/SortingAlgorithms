@@ -1,0 +1,49 @@
+Test: N=1000000, M=1000000
+radix_sort_base10: 4.635316848754883 seconds status OK
+radix_sort_base2_16: 1.2466890811920166 seconds status OK
+merge_sort: 1.8220434188842773 seconds status OK
+shell_sort: 1.1007897853851318 seconds status OK
+cube_sort: 0.5853042602539062 seconds status OK
+bucket_sort: 0.8079242706298828 seconds status OK
+heap_sort: 3.569194793701172 seconds status OK
+native_sort: 0.06255602836608887 seconds status OK
+
+Test: N=5000000, M=5000000
+radix_sort_base10: 40.54677152633667 seconds status OK
+radix_sort_base2_16: 6.745260000228882 seconds status OK
+merge_sort: 13.449715852737427 seconds status OK
+shell_sort: 6.613977432250977 seconds status OK
+cube_sort: 3.4548323154449463 seconds status OK
+bucket_sort: 4.191387891769409 seconds status OK
+heap_sort: 20.4355947971344 seconds status OK
+native_sort: 0.34857177734375 seconds status OK
+
+Test: N=10000000, M=10000000
+radix_sort_base10: 67.966632604599 seconds status OK
+radix_sort_base2_16: 13.859238624572754 seconds status OK
+merge_sort: 25.127071857452393 seconds status OK
+shell_sort: 20.58589267730713 seconds status OK
+cube_sort: 11.254562139511108 seconds status OK
+bucket_sort: 11.675207614898682 seconds status OK
+heap_sort: 61.388240814208984 seconds status OK
+native_sort: 0.9520738124847412 seconds status OK
+
+Test: N=50000000, M=50000000
+radix_sort_base10: 489.17506408691406 seconds status OK
+radix_sort_base2_16: 106.83784890174866 seconds status OK
+merge_sort: 180.80279111862183 seconds status OK
+shell_sort: 149.14997005462646 seconds status OK
+cube_sort: 76.91302943229675 seconds status OK
+bucket_sort: 55.36931824684143 seconds status OK
+heap_sort: 363.0819025039673 seconds status OK
+native_sort: 5.006022930145264 seconds status OK
+
+Test: N=100000000, M=100000000
+radix_sort_base10: 1086.1096482276917 seconds status OK
+radix_sort_base2_16: 231.94124341011047 seconds status OK
+merge_sort: 382.643759727478 seconds status OK
+shell_sort: 240.83427572250366 seconds status OK
+cube_sort: 159.80193567276 seconds status OK
+bucket_sort: 307.4216527938843 seconds status OK
+heap_sort: 780.0276734828949 seconds status OK
+native_sort: 10.250743627548218 seconds status OK

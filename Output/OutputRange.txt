@@ -1,0 +1,89 @@
+Test: N=10000000, M=10000
+radix_sort_base10: 35.22684693336487 seconds status OK
+radix_sort_base2_16: 9.723206758499146 seconds status OK
+merge_sort: 22.32401466369629 seconds status OK
+shell_sort: 13.671117544174194 seconds status OK
+cube_sort: 9.829456329345703 seconds status OK
+bucket_sort: 8.293617725372314 seconds status OK
+heap_sort: 43.5010142326355 seconds status OK
+native_sort: 0.6585562229156494 seconds status OK
+
+Test: N=20000000, M=10000
+radix_sort_base10: 74.41161799430847 seconds status OK
+radix_sort_base2_16: 19.49704909324646 seconds status OK
+merge_sort: 54.09050369262695 seconds status OK
+shell_sort: 28.843305587768555 seconds status OK
+cube_sort: 15.163246393203735 seconds status OK
+bucket_sort: 14.905571460723877 seconds status OK
+heap_sort: 124.64414119720459 seconds status OK
+native_sort: 2.5807440280914307 seconds status OK
+
+Test: N=30000000, M=10000
+radix_sort_base10: 169.83404803276062 seconds status OK
+radix_sort_base2_16: 29.282661199569702 seconds status OK
+merge_sort: 74.65046310424805 seconds status OK
+shell_sort: 46.951863527297974 seconds status OK
+cube_sort: 24.090050220489502 seconds status OK
+bucket_sort: 24.37453556060791 seconds status OK
+heap_sort: 137.47702646255493 seconds status OK
+native_sort: 2.012993097305298 seconds status OK
+
+Test: N=40000000, M=10000
+radix_sort_base10: 176.66435742378235 seconds status OK
+radix_sort_base2_16: 39.963446378707886 seconds status OK
+merge_sort: 99.69628357887268 seconds status OK
+shell_sort: 64.87841463088989 seconds status OK
+cube_sort: 31.867139101028442 seconds status OK
+bucket_sort: 31.899465799331665 seconds status OK
+heap_sort: 181.62505745887756 seconds status OK
+native_sort: 2.6869235038757324 seconds status OK
+
+Test: N=50000000, M=10000
+radix_sort_base10: 193.77877354621887 seconds status OK
+radix_sort_base2_16: 49.563679456710815 seconds status OK
+merge_sort: 125.30465793609619 seconds status OK
+shell_sort: 83.74081301689148 seconds status OK
+cube_sort: 44.92155718803406 seconds status OK
+bucket_sort: 49.432963371276855 seconds status OK
+heap_sort: 221.58235621452332 seconds status OK
+native_sort: 3.258801221847534 seconds status OK
+
+Test: N=60000000, M=10000
+radix_sort_base10: 241.62732076644897 seconds status OK
+radix_sort_base2_16: 60.269630670547485 seconds status OK
+merge_sort: 148.8704056739807 seconds status OK
+shell_sort: 101.525221824646 seconds status OK
+cube_sort: 51.62645626068115 seconds status OK
+bucket_sort: 48.20512413978577 seconds status OK
+heap_sort: 380.2705669403076 seconds status OK
+native_sort: 3.9477055072784424 seconds status OK
+
+Test: N=70000000, M=10000
+radix_sort_base10: 290.2352337837219 seconds status OK
+radix_sort_base2_16: 68.36801171302795 seconds status OK
+merge_sort: 175.13067507743835 seconds status OK
+shell_sort: 120.44760513305664 seconds status OK
+cube_sort: 59.915637493133545 seconds status OK
+bucket_sort: 56.03955626487732 seconds status OK
+heap_sort: 325.5106711387634 seconds status OK
+native_sort: 4.57249641418457 seconds status OK
+
+Test: N=80000000, M=10000
+radix_sort_base10: 373.32860827445984 seconds status OK
+radix_sort_base2_16: 82.78966903686523 seconds status OK
+merge_sort: 205.749751329422 seconds status OK
+shell_sort: 138.48281240463257 seconds status OK
+cube_sort: 69.6605978012085 seconds status OK
+bucket_sort: 67.61308741569519 seconds status OK
+heap_sort: 357.2699542045593 seconds status OK
+native_sort: 5.3661487102508545 seconds status OK
+
+Test: N=90000000, M=10000
+radix_sort_base10: 414.0947151184082 seconds status OK
+radix_sort_base2_16: 139.9656527042389 seconds status OK
+merge_sort: 401.5309784412384 seconds status OK
+shell_sort: 275.26349663734436 seconds status OK
+cube_sort: 91.65255451202393 seconds status OK
+bucket_sort: 94.6259696483612 seconds status OK
+heap_sort: 572.1042003631592 seconds status OK
+native_sort: 5.948699474334717 seconds status OK
